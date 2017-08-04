@@ -21,8 +21,8 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: catharinavanleeuwen/jekyll-now
-  instagram:
+  github: catharinavanleeuwen
+  instagram: kittyvanleeuwen
   linkedin: kitty-van-leeuwen-a8159648
   pinterest:
   rss: # just type anything here for a working RSS icon
@@ -34,7 +34,7 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: catharinavanleeuwen
+disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-101524152-1

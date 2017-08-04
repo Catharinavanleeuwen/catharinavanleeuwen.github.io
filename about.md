@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi there! Thank you for visiting this very important web page, my name is Kitty and I am a front-end and web-design enthusiast. I love simple design with eye for detail. A person once asked me if I considered myself more of a front-end ninja or a front-end buddha. I told that person their question didn't make any sense, and right there and then I decided we shouldn't be friends anymore.
 
-### More Information
+I don't know why I'm telling you this story, but you're still reading so you must find it compelling. Anyway, I'm very happy you're here please let me know if there is anything I can help you with.
 
-A place to include any other types of information that you'd like to include about yourself.
+### contact me
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[catharina.m.vanleeuwen@gmail.com](mailto:email@domain.com)
