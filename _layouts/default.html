@@ -16,8 +16,8 @@
   </head>
 
   <body>
-    <div class="wrapper-masthead">
-      <div class="container">
+    <div class="container">
+      <div class="wrapper-masthead">
         <header class="masthead clearfix">
 <!--           <a href="{{ site.baseurl }}/" class="site-avatar"><img src="images/avatar.jpg" /></a>
  -->
@@ -32,19 +32,18 @@
           </nav>
         </header>
       </div>
-    </div>
 
-    <div id="main" role="main" class="container">
+    <div id="main" role="main">
       {{ content }}
     </div>
 
     <div class="wrapper-footer">
-      <div class="container">
         <footer class="footer">
           {% include svg-icons.html %}
         </footer>
       </div>
-    </div>
+    </div
+
 
     {% include analytics.html %}
   </body>

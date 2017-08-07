@@ -29,6 +29,8 @@ font-family: 'Cutive Mono', monospace;
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
+  background-color: #D8D8D8;
+
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -157,7 +159,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid #E32C2C;
+  border-bottom: 1px solid $gray;
 
   @include mobile {
     text-align: center;
@@ -244,6 +246,7 @@ font-family: 'Josefin Slab', serif;
 // .main
 //
 
+
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
@@ -282,7 +285,7 @@ font-family: 'Josefin Slab', serif;
 }
 
 footer {
-  padding: 0px 0;
+  padding: 14px 0;
   text-align: center;
 }
 

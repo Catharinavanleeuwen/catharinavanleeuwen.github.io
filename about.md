@@ -10,4 +10,4 @@ I don't know why I'm telling you this story, but you're still reading so you mus
 
 ### contact me
 
-[catharina.m.vanleeuwen@gmail.com](mailto:email@domain.com)
+[catharina.m.vanleeuwen@gmail.com](mailto:catharina.m.vanleeuwen@gmail.com)
